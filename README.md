@@ -8,5 +8,5 @@
      - (아이템은 상대 패들 0.7배, 내 패들 1.2배 둘 중 하나)
   
 ## 게임 작동 화면
-![프로그램 작동 사진](https://github.com/ETKorea/Shared-data/blob/main/tennisgamegif.gif)
+![프로그램 작동 사진](https://github.com/ETKorea/Shared-data/blob/main/tennisgameg.gif)
 ![프로그램 작동 사진](https://github.com/ETKorea/Shared-data/blob/main/tennisgamejpg.png)
